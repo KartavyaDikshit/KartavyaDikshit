@@ -59,11 +59,3 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kartavyadikshit&show_icons=true&locale=en&layout=compact" alt="kartavyadikshit" />
 </p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kartavyadikshit&show_icons=true&locale=en" alt="kartavyadikshit" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartavyadikshit&" alt="kartavyadikshit" />
-</p>
