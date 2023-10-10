@@ -1,5 +1,5 @@
-<h1 align="center">Kartavya Niraj Dikshit</h1>
-<h3 align="center">Computer Science Engineer</h3>
+<h1 align="center" style="color: white;">Kartavya Niraj Dikshit</h1>
+<h3 align="center" style="color: white;">Computer Science Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kartavyadikshit&label=Profile%20views&color=0e75b6&style=flat" alt="kartavyadikshit" />
