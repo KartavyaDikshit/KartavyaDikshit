@@ -1,61 +1,130 @@
-<h1 align="center" style="color: white;">Kartavya Niraj Dikshit</h1>
-<h3 align="center" style="color: white;">Computer Science Engineer</h3>
-
+<div align="center">
+  
+# 👋 Hi there, I'm Kartavya Dikshit
+  
+### 🚀 Full-Stack Developer | AI Enthusiast | Education Consultant
+  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kartavyadikshit&label=Profile%20views&color=0e75b6&style=flat" alt="kartavyadikshit" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00D9FF&background=00000000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+Pipeline+Architect;Education+Technology+Expert;Next.js+%26+TypeScript+Specialist" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  📧 Email: kartavyaniraj.dikshit2021@vitstudent.ac.in
-  <a href="https://linkedin.com/in/kartavya-dikshit" target="_blank">
-    <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartavya-dikshit" height="30" width="40" />
-  </a>
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=KartavyaDikshit&color=blueviolet&style=flat-square)](https://github.com/KartavyaDikshit)
+[![GitHub followers](https://img.shields.io/github/followers/KartavyaDikshit?style=flat-square&color=blue)](https://github.com/KartavyaDikshit?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/KartavyaDikshit?style=flat-square&color=yellow)](https://github.com/KartavyaDikshit)
 
-<h3 align="left">Technologies worked with:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQcPYdnThG90Racg820aTbajHxzNHhUxhgZs3g5Tz-WJi4ZODcV" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-</p>
+</div>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kartavyadikshit&show_icons=true&locale=en&layout=compact" alt="kartavyadikshit" />
-</p>
+---
+
+## 🧑‍💻 About Me
+
+I'm a **Computer Science Engineer** and **Full-Stack Developer** passionate about building innovative web applications and AI-powered solutions. Currently based in **Pune, India**, I specialize in modern web technologies and have extensive experience in education consulting and international student services.
+
+- 🔭 Currently working on **AI Pipeline Systems** and **Education Technology Platforms**
+- 🌱 Learning advanced **AI/ML integration** and **Next.js optimization**
+- 👨‍💼 Running **IAEC Consultants** - helping students with international education
+- 🎓 Pursuing **MS Data Science** at Florida Atlantic University
+- 💡 Always exploring new technologies and building innovative solutions
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+### Databases & Cloud
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KartavyaDikshit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartavyaDikshit&layout=compact&theme=tokyonight&langs_count=8"/>
+
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=KartavyaDikshit&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 Featured Projects
+
+<div align="center">
+
+[![IAEC Consultants](https://github-readme-stats.vercel.app/api/pin/?username=KartavyaDikshit&repo=IAEC&theme=tokyonight)](https://github.com/KartavyaDikshit/IAEC)
+[![TheBrainyInsights](https://github-readme-stats.vercel.app/api/pin/?username=KartavyaDikshit&repo=TheBrainyInsightsReplatform&theme=tokyonight)](https://github.com/KartavyaDikshit/TheBrainyInsightsReplatform)
+
+[![AI Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=KartavyaDikshit&repo=AI_Pipeline&theme=tokyonight)](https://github.com/KartavyaDikshit/AI_Pipeline)
+[![Admin Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=KartavyaDikshit&repo=Admin_Dashboard&theme=tokyonight)](https://github.com/KartavyaDikshit/Admin_Dashboard)
+
+</div>
+
+### 🌟 Project Highlights
+
+- **🎓 [IAEC Consultants](https://github.com/KartavyaDikshit/IAEC)** - International education consulting platform built with Next.js and TypeScript
+- **🧠 [TheBrainyInsights Replatform](https://github.com/KartavyaDikshit/TheBrainyInsightsReplatform)** - Modern business insights platform with advanced analytics
+- **🤖 [AI Pipeline](https://github.com/KartavyaDikshit/AI_Pipeline)** - AI-powered processing pipeline with advanced context management
+- **📊 [Admin Dashboard](https://github.com/KartavyaDikshit/Admin_Dashboard)** - Full-featured administrative interface with real-time data
+- **💼 [Portfolio Website](https://github.com/KartavyaDikshit/Portfolio)** - Personal portfolio showcasing projects and skills
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  
+[![Kartavya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KartavyaDikshit&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🏅 Achievements & Stats
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=KartavyaDikshit&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophy" />
+
+</div>
+
+### 📊 Repository Stats
+- 🗂️ **12 Public Repositories**
+- ⭐ **2+ Stars Earned**
+- 🔀 **Active Contributor** with recent commits
+- 🌟 **TypeScript Specialist** (Primary language)
+- 🚀 **Full-Stack Projects** spanning web development to AI
+
+---
+
+## 🎯 Current Focus Areas
+
