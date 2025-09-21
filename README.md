@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi there, I'm Kartavya Dikshit
+#  Kartavya Dikshit
   
 ### 🚀 Full-Stack Developer | AI Enthusiast | Education Consultant
   
