@@ -93,9 +93,6 @@ My expertise lies in bridging the gap between advanced machine learning models (
 | **IAEC Consultants** | International education consulting platform built for rapid development and production-grade performance. | [Live Site](https://www.iaecconsultants.in/) | Next.js, TypeScript, SEO |
 | **The Brainy Insights** | Modern business insights platform with AI-powered report generation and real-time analytics. | [Live Site](https://www.thebrainyinsights.com/) | Next.js, AI Pipeline, i18n |
 | **[Resume ClassifierX](https://github.com/bhavya-chanana/ResumeClassifierX)** | Generative AI-driven resume classification system enhancing recruitment efficiency (IEEE Under Publication). | [GitHub](https://github.com/bhavya-chanana/ResumeClassifierX) | Python, spaCy, LLMs |
-| **LinkedIn Network Mapper** | Interactive professional network visualization using AI crawler agents and graph databases. | [GitHub](https://github.com/KartavyaDikshit) | Neo4j, D3.js, LangChain |
-| **ReadIT** | Conversational AI system querying Reddit's ecosystem with real-time retrieval and synthesis. | [GitHub](https://github.com/KartavyaDikshit) | LangChain, BERT, FastAPI |
-| **AiSupportAssistant** | Hierarchical AI agents for complex customer support query resolution with RAG. | [GitHub](https://github.com/KartavyaDikshit) | LangGraph, RAG, Pinecone |
 
 ---
 
@@ -112,12 +109,15 @@ My expertise lies in bridging the gap between advanced machine learning models (
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KartavyaDikshit&theme=tokyo-night&area=true)
+![Kartavya's Trophies](https://github-profile-trophy.vercel.app/?username=KartavyaDikshit&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15)
 
 <br/>
 
-![Kartavya's Stats](https://github-readme-stats.vercel.app/api?username=KartavyaDikshit&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KartavyaDikshit&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=ffffff)
+[![Streak Stats](https://streak-stats.demolab.com/?user=KartavyaDikshit&theme=tokyonight&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+
+<br/>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KartavyaDikshit&theme=tokyo-night&area=true)
 
 </div>
 
