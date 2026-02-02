@@ -47,7 +47,7 @@ My expertise lies in bridging the gap between advanced machine learning models (
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
@@ -88,14 +88,14 @@ My expertise lies in bridging the gap between advanced machine learning models (
 
 ## 🏆 Featured Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Resume ClassifierX](https://github.com/bhavya-chanana/ResumeClassifierX)** | Generative AI-driven resume classification system enhancing recruitment efficiency (IEEE Under Publication). | Python, spaCy, OpenAI GPT, LLaMA |
-| **[The Brainy Insights](https://github.com/KartavyaDikshit/TheBrainyInsightsReplatform)** | Modern business insights platform with advanced analytics and AI integration. | TypeScript, Next.js, Prisma, Analytics |
-| **[LinkedIn Network Mapper](https://github.com/KartavyaDikshit)** | Interactive professional network visualization using AI crawler agents and graph databases. | Neo4j, D3.js, LangChain, PyTorch |
-| **[ReadIT](https://github.com/KartavyaDikshit)** | Conversational AI system querying Reddit's ecosystem with real-time retrieval and synthesis. | LangChain, BERT, FastAPI, Redis |
-| **[LazyYouTube](https://github.com/KartavyaDikshit)** | Video analysis tool extracting key info from YouTube/Instagram via AI agents. | Whisper ASR, BART/T5, React, MongoDB |
-| **[AiSupportAssistant](https://github.com/KartavyaDikshit)** | Hierarchical AI agents for complex customer support query resolution. | LangGraph, RAG, Pinecone, Docker |
+| Project | Description | Live / Repo | Tech Stack |
+| :--- | :--- | :--- | :--- |
+| **IAEC Consultants** | International education consulting platform built for rapid development and production-grade performance. | [Live Site](https://www.iaecconsultants.in/) | Next.js, TypeScript, SEO |
+| **The Brainy Insights** | Modern business insights platform with AI-powered report generation and real-time analytics. | [Live Site](https://www.thebrainyinsights.com/) | Next.js, AI Pipeline, i18n |
+| **[Resume ClassifierX](https://github.com/bhavya-chanana/ResumeClassifierX)** | Generative AI-driven resume classification system enhancing recruitment efficiency (IEEE Under Publication). | [GitHub](https://github.com/bhavya-chanana/ResumeClassifierX) | Python, spaCy, LLMs |
+| **LinkedIn Network Mapper** | Interactive professional network visualization using AI crawler agents and graph databases. | [GitHub](https://github.com/KartavyaDikshit) | Neo4j, D3.js, LangChain |
+| **ReadIT** | Conversational AI system querying Reddit's ecosystem with real-time retrieval and synthesis. | [GitHub](https://github.com/KartavyaDikshit) | LangChain, BERT, FastAPI |
+| **AiSupportAssistant** | Hierarchical AI agents for complex customer support query resolution with RAG. | [GitHub](https://github.com/KartavyaDikshit) | LangGraph, RAG, Pinecone |
 
 ---
 
@@ -108,12 +108,16 @@ My expertise lies in bridging the gap between advanced machine learning models (
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Activity & Impact
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KartavyaDikshit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartavyaDikshit&layout=compact&theme=tokyonight&langs_count=8"/>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KartavyaDikshit&theme=tokyo-night&area=true)
+
+<br/>
+
+![Kartavya's Stats](https://github-readme-stats.vercel.app/api?username=KartavyaDikshit&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KartavyaDikshit&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=ffffff)
 
 </div>
 
