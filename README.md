@@ -1,66 +1,114 @@
 <div align="center">
   
-#  Kartavya Dikshit
+# Kartavya Niraj Dikshit
   
-### 🚀 Full-Stack Developer | AI Enthusiast | Education Consultant
+### 🤖 AI/ML Engineer | 🚀 Full-Stack Developer | 📊 Data Scientist
   
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00D9FF&background=00000000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+Pipeline+Architect;Education+Technology+Expert;Next.js+%26+TypeScript+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00D9FF&background=00000000&center=true&vCenter=true&width=600&lines=Master+of+Science+in+Data+Science;Building+Scalable+AI+Architectures;Full-Stack+Web+Development;RAG+%26+LLM+Specialist;Next.js+%26+TypeScript+Expert" alt="Typing SVG" />
 </p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=KartavyaDikshit&color=blueviolet&style=flat-square)](https://github.com/KartavyaDikshit)
-[![GitHub followers](https://img.shields.io/github/followers/KartavyaDikshit?style=flat-square&color=blue)](https://github.com/KartavyaDikshit?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/KartavyaDikshit?style=flat-square&color=yellow)](https://github.com/KartavyaDikshit)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kartavya_Dikshit-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartavya-dikshit)
+[![GitHub](https://img.shields.io/badge/GitHub-KartavyaDikshit-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KartavyaDikshit)
+[![Email](https://img.shields.io/badge/Email-kartavya.dikshit@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartavya.dikshit@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Erlangen,_Germany-FFCC00?style=for-the-badge&logo=google-maps&logoColor=black)](https://goo.gl/maps/PlaceHolder)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a **Computer Science Engineer** and **Full-Stack Developer** passionate about building innovative web applications and AI-powered solutions. Currently based in **Pune, India**, I specialize in modern web technologies and have extensive experience in education consulting and international student services.
+I am a results-driven **AI/ML Engineer** and **Full-Stack Developer** currently pursuing a **Master of Science in Data Science** at **Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)**, Germany. With a strong background in Computer Science from **VIT, India**, I specialize in building scalable AI-driven applications, real-time analytics engines, and modern web platforms.
 
-- 🔭 Currently working on **AI Pipeline Systems** and **Education Technology Platforms**
-- 🌱 Learning advanced **AI/ML integration** and **Next.js optimization**
-- 👨‍💼 Running **IAEC Consultants** - helping students with international education
-- 🎓 Pursuing **MS Data Science** at Florida Atlantic University
-- 💡 Always exploring new technologies and building innovative solutions
+My expertise lies in bridging the gap between advanced machine learning models (LLMs, RAG, NLP) and production-grade software engineering. I have a proven track record of optimizing business workflows through automation and intelligent systems.
+
+*   🔭 **Currently working on:** Advanced RAG pipelines, Autonomous Agents, and Enterprise AI solutions.
+*   🎓 **Education:** MS in Data Science (FAU Germany) | B.Tech in CSE (VIT India).
+*   💼 **Open for:** Internship and Full-time opportunities in AI/ML, Data Science, and Full-Stack Engineering.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Technical Arsenal
 
 <div align="center">
 
-### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 🧠 AI, ML & Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### Frameworks & Libraries
+### 💻 Full-Stack Development
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Databases & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+### 🗄️ Backend, Data & DevOps
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 💼 Professional Experience
+
+### **AI/ML Engineer & Full-Stack Developer (Freelance)**
+**The Brainy Insights & IAEC Consultants** | *Aug 2024 – Current*
+- 🤖 Built an **AI-powered admin dashboard** and automation pipeline on **Next.js**, enabling end-to-end report generation workflows.
+- ⚙️ Optimized LLM usage via **token-budgeting** and temperature tuning, reducing costs while maintaining output fidelity.
+- 🌍 Delivered full-stack **internationalization (i18n)** with AI translation workflows for rapid multilingual rollout.
+- 🚀 Implemented technical SEO and a database-ready backend using **Prisma ORM**.
+
+### **AI-ML Engineer Intern (DatumsAI Team)**
+**Hidden Brains InfoTech** | *Dec 2024 – Sep 2025*
+- ⚡ Engineered a real-time analytics engine achieving **52% faster query response** and **93% linear scaling efficiency** across 100 nodes.
+- 🗣️ Developed a conversational interface using **BERT/GPT**, improving query intent recognition by **7%**.
+- 🔒 Implemented **AES256/TLS encryption** and compliance frameworks (GDPR/HIPAA).
+
+### **Software Engineer Intern (R&D Team)**
+**Icertis Solutions** | *Aug 2023 – Nov 2023*
+- 🔄 Developed a custom workflow engine using **C#** and **Optimajet**, boosting operational productivity.
+- 🗺️ Created a React-based entity mapping tool integrated with Salesforce for enhanced data visualization.
+
+---
+
+## 🏆 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Resume ClassifierX](https://github.com/bhavya-chanana/ResumeClassifierX)** | Generative AI-driven resume classification system enhancing recruitment efficiency (IEEE Under Publication). | Python, spaCy, OpenAI GPT, LLaMA |
+| **[The Brainy Insights](https://github.com/KartavyaDikshit/TheBrainyInsightsReplatform)** | Modern business insights platform with advanced analytics and AI integration. | TypeScript, Next.js, Prisma, Analytics |
+| **[LinkedIn Network Mapper](https://github.com/KartavyaDikshit)** | Interactive professional network visualization using AI crawler agents and graph databases. | Neo4j, D3.js, LangChain, PyTorch |
+| **[ReadIT](https://github.com/KartavyaDikshit)** | Conversational AI system querying Reddit's ecosystem with real-time retrieval and synthesis. | LangChain, BERT, FastAPI, Redis |
+| **[LazyYouTube](https://github.com/KartavyaDikshit)** | Video analysis tool extracting key info from YouTube/Instagram via AI agents. | Whisper ASR, BART/T5, React, MongoDB |
+| **[AiSupportAssistant](https://github.com/KartavyaDikshit)** | Hierarchical AI agents for complex customer support query resolution. | LangGraph, RAG, Pinecone, Docker |
+
+---
+
+## 🎓 Education
+
+*   **Master of Science in Data Science** (Specialization in AI/ML)
+    *   *Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany* | 2025 – 2027
+*   **Bachelor of Technology in Computer Science Engineering**
+    *   *Vellore Institute of Technology, India* | 2021 – 2025 | Grade: 8.2/10
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
   
@@ -69,62 +117,12 @@ I'm a **Computer Science Engineer** and **Full-Stack Developer** passionate abou
 
 </div>
 
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=KartavyaDikshit&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
 ---
-
-## 🏆 Featured Projects
-
-<div align="center">
-
-[![IAEC Consultants](https://github-readme-stats.vercel.app/api/pin/?username=KartavyaDikshit&repo=IAEC&theme=tokyonight)](https://github.com/KartavyaDikshit/IAEC)
-[![TheBrainyInsights](https://github-readme-stats.vercel.app/api/pin/?username=KartavyaDikshit&repo=TheBrainyInsightsReplatform&theme=tokyonight)](https://github.com/KartavyaDikshit/TheBrainyInsightsReplatform)
-
-[![AI Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=KartavyaDikshit&repo=AI_Pipeline&theme=tokyonight)](https://github.com/KartavyaDikshit/AI_Pipeline)
-[![Admin Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=KartavyaDikshit&repo=Admin_Dashboard&theme=tokyonight)](https://github.com/KartavyaDikshit/Admin_Dashboard)
-
-</div>
-
-### 🌟 Project Highlights
-
-- **🎓 [IAEC Consultants](https://github.com/KartavyaDikshit/IAEC)** - International education consulting platform built with Next.js and TypeScript
-- **🧠 [TheBrainyInsights Replatform](https://github.com/KartavyaDikshit/TheBrainyInsightsReplatform)** - Modern business insights platform with advanced analytics
-- **🤖 [AI Pipeline](https://github.com/KartavyaDikshit/AI_Pipeline)** - AI-powered processing pipeline with advanced context management
-- **📊 [Admin Dashboard](https://github.com/KartavyaDikshit/Admin_Dashboard)** - Full-featured administrative interface with real-time data
-- **💼 [Portfolio Website](https://github.com/KartavyaDikshit/Portfolio)** - Personal portfolio showcasing projects and skills
-
----
-
-## 📈 Contribution Graph
 
 <div align="center">
   
-[![Kartavya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KartavyaDikshit&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+Let's Connect! 🤝
+  
+[LinkedIn](https://www.linkedin.com/in/kartavya-dikshit) • [Email](mailto:kartavya.dikshit@gmail.com) • [GitHub](https://github.com/KartavyaDikshit)
 
 </div>
-
----
-
-## 🏅 Achievements & Stats
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=KartavyaDikshit&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophy" />
-
-</div>
-
-### 📊 Repository Stats
-- 🗂️ **12 Public Repositories**
-- ⭐ **2+ Stars Earned**
-- 🔀 **Active Contributor** with recent commits
-- 🌟 **TypeScript Specialist** (Primary language)
-- 🚀 **Full-Stack Projects** spanning web development to AI
-
----
-
-## 🎯 Current Focus Areas
-

@@ -1,0 +1,179 @@
+          
+ 	Kartavya Niraj Dikshit 			
+  	Halbmondstraße 7, 91054, Erlangen, Germany
+  	Email: kartavya.dikshit@gmail.com  
+     Phone: (+91)9765530235 (+49)15510940829
+  	LinkedIn: www.linkedin.com/in/kartavya-dikshit
+ 	GitHub: https://github.com/KartavyaDikshit
+Gender: Male Date of birth: 29/06/2003 Place of birth: Valsad Nationality: Indian
+
+
+EDUCATION AND TRAINING ----------------------------------------------------------------------------------------------
+
+[ 09/2025 – 2027 ] 	Master of Science in Data Science 
+Specializing in Artificial Intelligence/Machine Learning
+Friedrich-Alexander-Universität Erlangen-Nürnberg           https://www.fau.eu/
+City: Erlangen | Country: Germany | Field of study: Data Science | EQF level 7 | 
+
+[ 08/2021 – 06/2025] 	Bachelor of Technology in Computer Science Engineering
+Vellore Institute of Technology				https://chennai.vit.ac.in/
+City: Chennai | Country: India | Field of study: Computer Science and Engineering 
+| Final grade: 8.2 | EQF level 6 
+| Thesis: AI-Driven Analytical Architectures in Business Intelligence: Computational Architectures, Limitations, and Scalability			https://www.datums.ai/
+C, C++, Python, Java, Data Structures & Algorithms, Competitive Coding, Theory of Computation, Computer Architecture, MicroSystems, German, Calculus, Electrical & Electronics, Physics, Chemistry, DBMS, Compiler Design, OS, ML, NLP, and AI.
+(IEEE Open-Source-Projects Technical Lead, Technical Team MOVIS r&d)
+
+[ 03/2019 – 03/2021] 	Higher Secondary School Certificate
+Arihant College of Science 				https://arihantcollege-bwd.ac.in/
+City: Pune | Country: India | Field(s) of study: Science 
+| Final grade: 94% | EQF level 4
+Mathematics, Physics, Chemistry, German, English, Information Technology.
+
+[ 03/2009 – 03/2019] 	Secondary School Certificate, Central Board of Secondary Education
+City International School					http://cispimpri.org/
+City: Pune | Country: India | Field(s) of study: Science 
+| Final grade: 91% | EQF level 3
+Mathematics, Physics, Chemistry, Biology, German, English, Hindi, Information Technology, History, Civics, and Geography.
+Certification of Academic Excellence:2016,’17,’18, The Times of India NIE Student: 2017, Math, Science, Cyber Olympiad: 3 gold, 4 silver, and 2 bronze medal winner.
+ 
+ WORK EXPERIENCE--------------------------------------------------------------------------------------------------------
+
+[ 08/2024 – Current]	AI/ML Engineer & Full-Stack Developer 
+	   		Freelance
+	   		City: Pune | Country: India 
+		The Brainy Insights Pvt. Ltd. https://www.thebrainyinsights.com/ 
+•	Built an AI-powered admin dashboard and automation pipeline on Next.js, enabling end-to-end report generation workflows with configurable model selection and sampling controls (temperature/top p) to balance determinism, creativity, and consistency across business reports.
+•	Optimized LLM usage via token-budgeting and prompt/output tuning to reduce cost and latency while preserving report fidelity, improving reliability for automated content generation at scale.
+•	Implemented comprehensive technical SEO across the full site (metadata, OpenGraph/Twitter, canonical URLs, and alternates) using Next.js App Router metadata patterns to improve crawlability and index quality for programmatic pages.
+•	Delivered full-stack internationalization with automatic website + report/content translation (i18n) using an AI translation workflow, enabling rapid multilingual rollout without manual string-by-string rewrites.
+•	Integrated a production-ready project setup (TypeScript configuration, linting, and test scaffolding) to enforce code quality and reduce regression risk during rapid development cycles.
+•	Implemented a database-ready backend foundation using Prisma ORM to streamline schema evolution and enable future analytics/CRUD workflows with minimal refactoring.
+•	Structured the codebase and deployment assets (checklists/configuration) to support smooth handoffs, repeatable builds, and reliable environment setup for collaborators.
+IAEC Consultants https://www.iaecconsultants.in/ 
+•	Developed a modern web application using Next.js (App Router) bootstrapped with create-next-app, enabling rapid development with a production-grade React framework.
+•	Implemented a maintainable front-end foundation by organizing pages under app/ (e.g., app/page.tsx) to support scalable routing and modular feature delivery.
+•	Leveraged Next.js built-in optimizations (e.g., next/font) to improve typography performance and deliver consistent UI rendering across devices.
+•	Standardized page-level SEO via App Router metadata conventions to ensure consistent titles/descriptions across routes and reduce duplicate-content risk through canonicalization.
+•	Strengthened performance-aware SEO foundations by aligning page structure with Next.js framework capabilities for modern rendering and metadata generation.
+•	Prepared the application for straightforward cloud deployment workflows aligned with common Next.js hosting patterns (Vercel-ready).
+
+	
+[ 12/2024 – 09/2025]	AI-ML Engineer Intern DatumsAI Team
+	  		Hidden Brains InfoTech 				https://www.hiddenbrains.com/
+	   		City: Ahmedabad | Country: India 
+•	Designed and implemented a modular and scalable architecture for real-time analytics and AI-driven business intelligence systems, resulting in 52% faster query response times and 33% higher throughput compared to benchmark systems.
+•	Developed a conversational interface layer using NLP and Large Language Models (BERT/GPT) that improved query intent recognition accuracy by 7%, making analytics accessible to non-technical users through natural language interactions.
+•	Engineered a real-time analytics engine with hardware acceleration techniques (SIMD matrix cores) that achieved 93% linear scaling efficiency when expanding from 1 to 100 nodes, significantly outperforming traditional BI architectures.
+•	Collaborated with the R&D team to implement comprehensive security protocols (AES256/TLS encryption) and compliance frameworks (GDPR/HIPAA), ensuring data protection while maintaining system performance and scalability.
+
+[ 08/2023 – 11/2023 ]	Software Engineer Intern R&D Team (Topgun)
+		    	Icertis Solutions Pvt. Ltd. 					https://www.icertis.com/
+		    	City: Pune | Country: India 
+•	Developed a web application using React for client entity mapping, integrated with Salesforce and more, which enhanced data visualization and relationship mapping capabilities, resulting in an increase in data management efficiency for the user.
+•	Implemented a custom workflow engine using C# and Optimajet Workflow Engine, improving workflow management efficiency and adaptability, and furthermore, automation. This led to a boost in operational productivity and a reduction in processing time.
+•	Conducted comprehensive API testing using Postman, ensuring product reliability and robustness. Identified and resolved potential vulnerabilities, resulting in improved product stability and end-user satisfaction.
+•	Collaborated with the Topgun R&D team to design and develop innovative solutions, enhancing the overall productivity and effectiveness of the team's research and development initiatives.
+ 
+Language Skills----------------------------------------------------------------------------------------------------------------------- 
+
+Mother tongue(s): Hindi, Gujrati, Marathi.
+Other language(s):
+English:
+Listening C2 Reading C2 Writing C2 Spoken C2 
+German:
+Listening A2 Reading A2 Writing A2 Spoken A2 
+
+(Levels: A1 and A2: Basic user - B1 and B2: Independent user - C1 and C2: Proficient user)
+Projects ---------------------------------------------------------------------------------------------------------------------------------
+
+•	Resume ClassifierX (IEEE-Under publication) 
+https://github.com/bhavya-chanana/ResumeClassifierX
+Enhancing Recruitment Efficiency through Generative AI-Driven Resume Classification
+Python, spaCy, OpenAI GPT, Lamma, LLLMs. 
+
+•	Bachelor Thesis: AI-Driven Analytical Architectures in Business Intelligence: Computational Architectures, Limitations, and Scalability (IEE TAI Under publication)
+https://www.datums.ai/
+Engineered a modular and scalable architecture for real-time analytics and AI-driven business intelligence systems with six distinct layers, enabling 52% faster query response times and 93% linear scaling efficiency across distributed nodes
+Apache Kafka, PostgreSQL, MongoDB, Apache Spark, Apache Flink, TensorFlow, PyTorch, Hugging Face Transformers, BERT, GPT, RAPIDS, Docker, Kubernetes, AES256/TLS Encryption, GDPR/ HIPAA Compliance Frameworks, Python, React, Redis, AWS, Azure.
+ 
+•	LinkedIn Network Mapper
+Engineered an interactive professional network visualization platform that maps connections through a dynamic graph interface, deploying AI crawler agents to identify optimal referral paths and job opportunities with actionable insights on relationship leverage 
+Neo4j Graph Database, D3.js Visualization, Selenium Web Scraping, LangChain Agents, PyTorch, FastAPI, React.js, Redux, WebSockets, Docker, JWT Authentication, OAuth2, Redis Cache, GitHub Actions, Connection Depth Analysis.
+
+•	ReadIT
+Developed a conversational AI system that dynamically queries and synthesizes information from Reddit's vast ecosystem, enabling natural language interactions about any topic with real-time content retrieval and contextual follow-up capabilities
+PRAW (Python Reddit API Wrapper), LangChain, Vector Embeddings, Sentence Transformers, Hugging Face BERT/RoBERTa, FastAPI, Redis Stream Processing, MongoDB Atlas, React, TypeScript, WebSockets, Docker, ElasticSearch, Subreddit Classification Models, Sentiment Analysis, Topic Modeling, GitHub Actions.
+
+•	LazyYouTube
+Created a multi-platform video analysis tool that extracts and condenses key information from YouTube videos and Instagram Reels via shared links to the AI agent, delivering concise summaries and content insights through a user-friendly interface
+Hugging Face Transformers, BART/T5 for Summarization, Whisper ASR, LangChain, FastAPI, Redis Cache, MongoDB, Docker, Celery, RabbitMQ, React.js, GitHub Actions, PyTorch, TensorFlow Lite, Hugging Face Spaces.
+
+•	AiSupportAssistant
+Engineered an advanced customer support system utilizing hierarchical AI agents for complex query resolution, automated ticket routing, and knowledge base integration with comprehensive analytics and performance tracking
+LangChain, LangGraph, LangSmith, Hierarchical Agent Architecture, Vector Stores, Retrieval-Augmented Generation (RAG), OpenAI API, Pinecone, Redis, FastAPI, React, TypeScript, PostgreSQL, Docker, GitHub Actions.
+
+•	IDHATW: AI Wardrobe Manager App
+Revolutionized fashion organization with image-to-3D clothing digitization powered by Roblox's Cube 3D model, enabling immersive virtual closet management and AR try-on experiences
+Roblox Cube 3D, Computer Vision, Multimodal Foundation Models, Diffusion Models, Neural Radiance Fields (NeRF), Graph Neural Networks, ARKit/ARCore, Three.js, Vector Embeddings, Retrieval-Augmented Generation (RAG).
+
+•	BestiAI: AI Voice Companion System
+Developed an accessible voice-based AI companion system accessible via standard phone number, leveraging open-source speech models for natural conversations with memory retention and emotional intelligence 
+Sesame AI's CSM-1B, Residual Vector Quantization (RVQ), LLaMA, Twilio API, Vector Databases, AWS EC2/S3, Docker, Kubernetes, FastAPI, WebSockets, Whisper API, Kafka, Redis, JWT Authentication, ELK Stack.
+
+•	EdgeMedCare
+An AI-Driven Fog Computing Framework for Rapid Cardiovascular Health Diagnostics
+Python, Fog Computing, ML, Distributed Systems.
+ 
+•	QuantumLeap Fitness Tracker
+Advanced Fitness Tracking with Quantum Sensor Precision and AI-Driven Insights
+Python, IoT, TensorFlow, Physics.
+
+•	Parallel Algorithms for Nonlinear Optimization
+Parallel Algorithms for Solving Nonlinear Optimization Problems in Machine Learning
+Python, TensorFlow, CUDA, PyTorch, Distributed GPU Training.
+
+•	Power-Aware Scheduling Algorithm
+Optimizing Power-Aware Scheduling Algorithms for Enhanced Efficiency in High- Performance Computing Systems
+C++, MPI,OpenMP.
+	
+•	Coordinated Network Attack Detection
+Enhancing Coordinated Network Attack Detection Through Multi-Domain Learning and Bidirectional LSTM with Attention Mechanism
+Python, Keras, TensorFlow, Scikit- learn.
+
+•	NutriBOT
+AI assistant chatbot 
+Python, Dialogflow, TensorFlow, Keras.
+
+•	TARP(Technical Answers to Real-world Problem)
+A camera-driven smart parking solution for urban efficiency
+Python, OpenCV, Flask, Raspberry Pi.
+•	IEEE Open Source Project
+Simulated Stereo Vision for Depth Estimation and Object Tracking in Robotic Applications
+Python, OpenCV, ROS.
+
+ 
+Skills--------------------------------------------------------------------------------------------------------------------------------------	
+Programming Languages
+MongoDB | C# | MySQL | C++ | JavaScript | C | Java | Python | ShellScript
+
+Web Development
+HTML | D3.js | Flask | React | REST | Gradle | CSS | TypeScript | PHP | Postm an | API Development | OAuth | Three.js | ASP.NET | Bootstap | MERN | Spring Boot | Maven | WebSockets | Github | Redux | JWT Auth
+
+Data Science and Machine Learning 
+TensorFLow | Numpy | Pandas | Whisper ASR | SciPy | Seaborn | PyTorch | CU DA | BERT | Scikit-learn | Hugging Face | Keras | Transformers | GPT | Topic Modelling | Residual Vector Quantization | CV | LLaMA | spaCY | OpenCV | Diffusi on Models | Distributed GPU Training | Multimodal Foundation Models | Vector Embeddings | Sentence Transformers | Neural Radiance Fields | BART/T5 | Graph Neural Networks | RAPIDS | Twilio API | Celery | LangChain | LangGraph | Rabbit MQ | LangSmith | OpenMP | OpenAI | Dialogflow | PRAW
+
+Databases
+PostgreSQL | SQL | Firebase | MariaDB | OracleDB | Redis | Neo4j Graph DB | V ector Stores | Pinecone | ElasticSearch
+
+Tools and Technologies
+Docker | Selenium | ARKit/ARCore | Kubernetes | Raspberry Pi | ELK Stack | Git
+| Hardware Acceleration(SIMD matrix cores) | GitHub | GitHub Actions | AWS(EC2/ S3) | AES256/TLS encryption | Azure | GDPR/HIPPA Compliance | Salesforce
+ 
+Framework and Libraries
+Bootstrap | React Native | Apache Beam | Apache Kafka | Apache Hadoop | Apach e Spark | Apache Flink | Flask-RESTful | FastAPI | Jupyter | OptimaJet Workflow Engine | ROS
+
+GRADUATE RECORD EXAMINATIONS (GRE)
+164 Quantitative Analysis 155 Verbal 4 Analytical Writing
+
+
+
