@@ -105,17 +105,34 @@ My expertise lies in bridging the gap between advanced machine learning models (
 
 ---
 
-## 📈 Activity & Impact
+## 📈 Impact & Insights
+
+### ⚡ By The Numbers
+| 🔬 Research Papers | 💼 Experience | 🚀 Projects Shipped | 📚 Education |
+| :---: | :---: | :---: | :---: |
+| **2** (IEEE Publications) | **3+** Years (Incl. Internships) | **12+** (Web & AI) | **M.Sc.** Data Science |
+
+### 🎯 Core Competencies
+<!-- Robust Markdown Progress Bars -->
+**Artificial Intelligence & LLMs**  
+![100%](https://progress-bar.dev/100/?title=&color=32CD32&width=500)  
+*RAG, LangChain, Fine-tuning, NLP, Agents*
+
+**Full-Stack Development**  
+![90%](https://progress-bar.dev/90/?title=&color=007ACC&width=500)  
+*Next.js, TypeScript, React, Node.js*
+
+**Data Engineering & Analytics**  
+![85%](https://progress-bar.dev/85/?title=&color=FFA500&width=500)  
+*Kafka, Spark, MongoDB, PostgreSQL*
+
+**DevOps & Cloud**  
+![75%](https://progress-bar.dev/75/?title=&color=FF4500&width=500)  
+*Docker, Kubernetes, AWS, CI/CD*
+
+---
 
 <div align="center">
-
-![Kartavya's Trophies](https://github-profile-trophy.vercel.app/?username=KartavyaDikshit&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15)
-
-<br/>
-
-[![Streak Stats](https://streak-stats.demolab.com/?user=KartavyaDikshit&theme=tokyonight&hide_border=true&mode=weekly)](https://git.io/streak-stats)
-
-<br/>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KartavyaDikshit&theme=tokyo-night&area=true)
 
