@@ -113,22 +113,13 @@ My expertise lies in bridging the gap between advanced machine learning models (
 | **2** (IEEE Publications) | **3+** Years (Incl. Internships) | **12+** (Web & AI) | **M.Sc.** Data Science |
 
 ### 🎯 Core Competencies
-<!-- Robust Markdown Progress Bars -->
-**Artificial Intelligence & LLMs**  
-![100%](https://progress-bar.dev/100/?title=&color=32CD32&width=500)  
-*RAG, LangChain, Fine-tuning, NLP, Agents*
 
-**Full-Stack Development**  
-![90%](https://progress-bar.dev/90/?title=&color=007ACC&width=500)  
-*Next.js, TypeScript, React, Node.js*
-
-**Data Engineering & Analytics**  
-![85%](https://progress-bar.dev/85/?title=&color=FFA500&width=500)  
-*Kafka, Spark, MongoDB, PostgreSQL*
-
-**DevOps & Cloud**  
-![75%](https://progress-bar.dev/75/?title=&color=FF4500&width=500)  
-*Docker, Kubernetes, AWS, CI/CD*
+| Domain | Proficiency | Focus Areas |
+| :--- | :--- | :--- |
+| **Artificial Intelligence & LLMs** | ██████████ 100% | *RAG, LangChain, Fine-tuning, NLP, Agents* |
+| **Full-Stack Development** | █████████░ 90% | *Next.js, TypeScript, React, Node.js* |
+| **Data Engineering & Analytics** | ████████▒░ 85% | *Kafka, Spark, MongoDB, PostgreSQL* |
+| **DevOps & Cloud** | ███████▒░░ 75% | *Docker, Kubernetes, AWS, CI/CD* |
 
 ---
 
